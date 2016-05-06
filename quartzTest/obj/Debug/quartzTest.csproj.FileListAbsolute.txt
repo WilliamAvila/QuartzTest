@@ -1,0 +1,15 @@
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\quartzTest.exe.config
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\quartzTest.exe
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\quartzTest.pdb
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\Common.Logging.Core.dll
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\Common.Logging.dll
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\Quartz.dll
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\Common.Logging.pdb
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\Common.Logging.xml
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\Common.Logging.Core.pdb
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\Common.Logging.Core.xml
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\Quartz.pdb
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\bin\Debug\Quartz.xml
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\obj\Debug\quartzTest.csprojResolveAssemblyReference.cache
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\obj\Debug\quartzTest.exe
+c:\users\williamavila\documents\visual studio 2015\Projects\quartzTest\quartzTest\obj\Debug\quartzTest.pdb
